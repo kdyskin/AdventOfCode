@@ -1,5 +1,5 @@
 def readInput():
-    text_file = open("input.txt", "r")
+    text_file = open("input1.txt", "r")
     lines = text_file.readlines()
     list = lines[1].split(",")
     input = []
