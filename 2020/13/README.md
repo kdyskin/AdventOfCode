@@ -13,6 +13,6 @@ Lets refer to this "fused" buses tuple as (7,13). Moving on to next bus, it is 5
 - (350+1)%13 = 0
 - (350 + 4)%59 = 0
 
-###Hooray
+### Hooray
 And we already know that from T=350 every 5369 time intervals "fused" (7,13,59) will align in the same formation.
 I will let you move on to the next bus without my help b(~_^)d
